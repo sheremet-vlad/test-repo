@@ -8,6 +8,7 @@ public class HelloWorld
 
       System.out.println("I know git branch flow");
 
+      System.out.println("We need to drink vino");
       System.out.println("We need to drink beer");
    }
 
